@@ -1,0 +1,40 @@
+<ns2:items
+    xmlns:ns2="http://integration.deposco.com/item"
+    xmlns:XRef="http://xml.apache.org/xalan/java/dep.integration.camel.XRef">
+    <item>
+        <businessUnit>BENTEX</businessUnit>
+        <number>Test2</number>
+        <name>test2</name>
+        <shortDescription>NoteboSet, Drapkin (Bouquet)/Black Stripe</shortDescription>
+        <longDescription>Fall 2016</longDescription>
+        <originCountry>US</originCountry>
+        <itemWeight>
+            <weight/>
+            <units/>
+        </itemWeight>
+        <productCategory></productCategory>
+        <cycleCount>true</cycleCount>
+        <tradingPartner/>
+        <purchaseCost>1.71000</purchaseCost>
+        <unitPrice>0</unitPrice>
+        <bornOnDateRequired/>
+        <expirationDateRequired/>
+        <receiveDateRequired/>
+        <quarantineRequired/>
+        <inspectionRequired/>
+        <inventoryTrackingEnabled>true</inventoryTrackingEnabled>
+        <shippable>true</shippable>
+        <customFields/>
+        <packs>
+            <pack>
+                <type>Each</type>
+                <quantity>1</quantity>
+            </pack>
+        </packs>
+        <colorName/>
+        <colorCode/>
+        <size/>
+        <customAttribute2>TEST</customAttribute2>
+        <customAttribute1>1</customAttribute1>
+    </item>
+</ns2:items>
